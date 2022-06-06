@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dsonnadara
+- 👀 I’m interested in coding
+- 🌱 I’m currently work as software engineering intern
+- 📫 you can reach me: dsonnadara@mitrai.com
